@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.exe
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.deps.json
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.dll
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\bin\Debug\netcoreapp3.1\M-todoConstrutor-16.pdb
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.dll
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.pdb
+C:\Users\gabriel\Documents\GitHub\M-todoConstrutor-16\obj\Debug\netcoreapp3.1\M-todoConstrutor-16.genruntimeconfig.cache
